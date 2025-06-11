@@ -1,0 +1,15 @@
+Great to hear that the app is working fine now! You can now:
+
+1. Track your workouts with:
+   - Exercise type
+   - Duration
+   - Intensity level (low, medium, high)
+   - Automatic calorie calculations
+
+2. Use the quick start presets for common workouts
+
+3. View your workout history and track your progress over time
+
+4. Delete any workout entries you want to remove
+
+The app will use the Gemini API for calorie calculations, with a fallback calculation method if needed. Is there anything specific you'd like to add or modify in the app?
