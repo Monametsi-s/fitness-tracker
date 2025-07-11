@@ -39,7 +39,7 @@ A modern web application built with Next.js for tracking workouts and calculatin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Monametsi-s/fitness-tracker.git
    cd fitness-tracker
    ```
 
